@@ -1,0 +1,16 @@
+{
+  "name": "ai-drama-producer-marketplace",
+  "owner": {
+    "name": "ai-drama-producer authors"
+  },
+  "plugins": [
+    {
+      "name": "ai-drama-producer",
+      "source": "./",
+      "description": "AI短剧制片班底：剧本→看点设计→角色一致性档案→资产锚点→分镜→七段式提示词(模型无关+适配注记+英文镜像)→配音→剪辑清单，含深挖制提问、合规硬闸门、四层QC与通用失败模式库",
+      "version": "2.2.0",
+      "category": "creative",
+      "keywords": ["AI短剧", "分镜", "提示词", "storyboard", "video-production", "seedance"]
+    }
+  ]
+}
