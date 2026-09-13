@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="四大防线">
+  <defs>
+    <linearGradient id="n1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="n2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="n3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9a8d4"/><stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+    <linearGradient id="n4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fcd34d"/><stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+    <radialGradient id="fg" cx="0.5" cy="0" r="1">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.14"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="440" fill="#0b0b14"/>
+  <rect width="1200" height="440" fill="url(#fg)"/>
+  <text x="600" y="46" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="700" fill="#9ca3af" letter-spacing="3">行 业 痛 点 → 四 道 防 线</text>
+
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+    <g>
+      <rect x="30" y="72" width="558" height="166" rx="18" fill="#101019" stroke="#2a2a3d"/>
+      <rect x="30" y="72" width="6" height="166" rx="3" fill="url(#n1)"/>
+      <text x="66" y="128" font-size="42" font-weight="800" fill="url(#n1)">01</text>
+      <text x="150" y="112" font-size="17" font-weight="700" fill="#f3f4f6">剧情降智 · 套路扎堆</text>
+      <text x="150" y="138" font-size="13" fill="#9ca3af">一键成片的尽头是同质化，官媒点名"乱邪滥俗"</text>
+      <text x="150" y="176" font-size="14.5" font-weight="700" fill="#c4b5fd">深挖制提问 + 对齐优先，落盘在后</text>
+      <text x="150" y="200" font-size="12.5" fill="#9ca3af">每个关卡先剖析对齐，文件是共识的记录不是替代品</text>
+    </g>
+    <g>
+      <rect x="612" y="72" width="558" height="166" rx="18" fill="#101019" stroke="#2a2a3d"/>
+      <rect x="612" y="72" width="6" height="166" rx="3" fill="url(#n2)"/>
+      <text x="648" y="128" font-size="42" font-weight="800" fill="url(#n2)">02</text>
+      <text x="732" y="112" font-size="17" font-weight="700" fill="#f3f4f6">盗脸 · 融声 · 版权乱象</text>
+      <text x="732" y="138" font-size="13" fill="#9ca3af">新华社点名"盗脸歪风不可长"的灰色产业带</text>
+      <text x="732" y="176" font-size="14.5" font-weight="700" fill="#67e8f9">红线四查 · 合规通道一票否决</text>
+      <text x="732" y="200" font-size="12.5" fill="#9ca3af">肖像/版权/敏感/真实事件脱敏，P0 项强制替身写法</text>
+    </g>
+    <g>
+      <rect x="30" y="256" width="558" height="166" rx="18" fill="#101019" stroke="#2a2a3d"/>
+      <rect x="30" y="256" width="6" height="166" rx="3" fill="url(#n3)"/>
+      <text x="66" y="312" font-size="42" font-weight="800" fill="url(#n3)">03</text>
+      <text x="150" y="296" font-size="17" font-weight="700" fill="#f3f4f6">"AI味"：油脸 · 乱码 · 口型翻车</text>
+      <text x="150" y="322" font-size="13" fill="#9ca3af">翻车吐槽视频比正片还火，观众容忍度极低</text>
+      <text x="150" y="360" font-size="14.5" font-weight="700" fill="#f9a8d4">18 条失败模式库 · 文字归首帧双轨制</text>
+      <text x="150" y="384" font-size="12.5" fill="#9ca3af">症状→根因→规避，全部来自真实产线的学费</text>
+    </g>
+    <g>
+      <rect x="612" y="256" width="558" height="166" rx="18" fill="#101019" stroke="#2a2a3d"/>
+      <rect x="612" y="256" width="6" height="166" rx="3" fill="url(#n4)"/>
+      <text x="648" y="312" font-size="42" font-weight="800" fill="url(#n4)">04</text>
+      <text x="732" y="296" font-size="17" font-weight="700" fill="#f3f4f6">生成额度黑洞</text>
+      <text x="732" y="322" font-size="13" fill="#9ca3af">抽卡式生成，烧钱无底洞</text>
+      <text x="732" y="360" font-size="14.5" font-weight="700" fill="#fcd34d">额度预算门 · 生产硬闸门 · 每镜备选写法</text>
+      <text x="732" y="384" font-size="12.5" fill="#9ca3af">最坏额度先报价后开工，改需求自动作废旧报价</text>
+    </g>
+  </g>
+
+  <text x="600" y="438" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="0" fill="none"> </text>
+</svg>

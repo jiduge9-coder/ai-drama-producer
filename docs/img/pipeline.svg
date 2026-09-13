@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="三阶段门工作流">
+  <defs>
+    <linearGradient id="pa" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="pb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="pc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#06b6d4"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <radialGradient id="pg" cx="0.5" cy="0" r="1">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.16"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="#0b0b14"/>
+  <rect width="1200" height="340" fill="url(#pg)"/>
+  <text x="600" y="42" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="700" fill="#9ca3af" letter-spacing="3">三 阶 段 门 工 作 流</text>
+
+  <line x1="70" y1="170" x2="1130" y2="170" stroke="url(#line)" stroke-width="2" stroke-opacity="0.5"/>
+
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+    <g>
+      <rect x="30" y="90" width="172" height="160" rx="16" fill="#101019" stroke="url(#pa)" stroke-width="2"/>
+      <rect x="30" y="90" width="172" height="34" rx="16" fill="#1a1030"/>
+      <text x="116" y="113" text-anchor="middle" font-size="14" font-weight="800" fill="#c4b5fd">GATE 0 · 立项</text>
+      <text x="116" y="152" text-anchor="middle" font-size="15" font-weight="700" fill="#f3f4f6">画像提问 · 红线四查</text>
+      <text x="116" y="176" text-anchor="middle" font-size="12.5" fill="#9ca3af">平台生态 / 画幅预算</text>
+      <text x="116" y="196" text-anchor="middle" font-size="12.5" fill="#9ca3af">质感基调 / 工具口味</text>
+      <text x="116" y="226" text-anchor="middle" font-size="12" fill="#818cf8">00-project-brief</text>
+    </g>
+    <path d="M208 170 h34 m-8 -6 l8 6 l-8 6" stroke="url(#line)" stroke-width="2" fill="none"/>
+
+    <g>
+      <rect x="248" y="90" width="188" height="160" rx="16" fill="#101019" stroke="url(#pa)" stroke-width="2"/>
+      <rect x="248" y="90" width="188" height="34" rx="16" fill="#1a1030"/>
+      <text x="342" y="113" text-anchor="middle" font-size="14" font-weight="800" fill="#c4b5fd">GATE 1 · 拆解分镜 ⏸</text>
+      <text x="342" y="152" text-anchor="middle" font-size="15" font-weight="700" fill="#f3f4f6">看点四件套 · 全季架构</text>
+      <text x="342" y="176" text-anchor="middle" font-size="12.5" fill="#9ca3af">连续性圣经 / 镜头趣味性</text>
+      <text x="342" y="196" text-anchor="middle" font-size="12.5" fill="#9ca3af">悬念回收表 / 断章咬合</text>
+      <text x="342" y="226" text-anchor="middle" font-size="12" fill="#818cf8">01-05 五件套 · 用户确认</text>
+    </g>
+    <path d="M442 170 h34 m-8 -6 l8 6 l-8 6" stroke="url(#line)" stroke-width="2" fill="none"/>
+
+    <g>
+      <rect x="482" y="90" width="188" height="160" rx="16" fill="#101019" stroke="url(#pb)" stroke-width="2"/>
+      <rect x="482" y="90" width="188" height="34" rx="16" fill="#0e2430"/>
+      <text x="576" y="113" text-anchor="middle" font-size="14" font-weight="800" fill="#67e8f9">资产锚点 ⏸</text>
+      <text x="576" y="152" text-anchor="middle" font-size="15" font-weight="700" fill="#f3f4f6">定妆图 · 场景 · 画面风格锁</text>
+      <text x="576" y="176" text-anchor="middle" font-size="12.5" fill="#9ca3af">全身纯底一张起步</text>
+      <text x="576" y="196" text-anchor="middle" font-size="12.5" fill="#9ca3af">A/S/P/E/V 编号入库</text>
+      <text x="576" y="226" text-anchor="middle" font-size="12" fill="#22d3ee">全季共用的地基</text>
+    </g>
+    <path d="M676 170 h34 m-8 -6 l8 6 l-8 6" stroke="url(#line)" stroke-width="2" fill="none"/>
+
+    <g>
+      <rect x="716" y="90" width="188" height="160" rx="16" fill="#101019" stroke="url(#pb)" stroke-width="2"/>
+      <rect x="716" y="90" width="188" height="34" rx="16" fill="#0e2430"/>
+      <text x="810" y="113" text-anchor="middle" font-size="14" font-weight="800" fill="#67e8f9">GATE 2 · 物料包 ⏸</text>
+      <text x="810" y="152" text-anchor="middle" font-size="15" font-weight="700" fill="#f3f4f6">额度预算门报价先行</text>
+      <text x="810" y="176" text-anchor="middle" font-size="12.5" fill="#9ca3af">首帧图 + 七段式视频提示词</text>
+      <text x="810" y="196" text-anchor="middle" font-size="12.5" fill="#9ca3af">配音文案 / 剪辑清单</text>
+      <text x="810" y="226" text-anchor="middle" font-size="12" fill="#22d3ee">中文 + 适配注记 + 英文镜像</text>
+    </g>
+    <path d="M910 170 h34 m-8 -6 l8 6 l-8 6" stroke="url(#line)" stroke-width="2" fill="none"/>
+
+    <g>
+      <rect x="950" y="90" width="220" height="160" rx="16" fill="#101019" stroke="url(#pc)" stroke-width="2"/>
+      <rect x="950" y="90" width="220" height="34" rx="16" fill="#2b1226"/>
+      <text x="1060" y="113" text-anchor="middle" font-size="14" font-weight="800" fill="#f9a8d4">GATE 3 · QC 循环</text>
+      <text x="1060" y="152" text-anchor="middle" font-size="15" font-weight="700" fill="#f3f4f6">合规C · 反模式A · 人工B</text>
+      <text x="1060" y="176" text-anchor="middle" font-size="12.5" fill="#9ca3af">失败统计反哺经验库</text>
+      <text x="1060" y="196" text-anchor="middle" font-size="12.5" fill="#9ca3af">成本阶梯：改提示词先于重生成</text>
+      <text x="1060" y="226" text-anchor="middle" font-size="12" fill="#f472b6">技能随使用变强</text>
+    </g>
+  </g>
+
+  <text x="600" y="296" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="13.5" fill="#6b7280">⏸ = 用户确认点 · 方向错了不烧额度 · 对齐优先，落盘在后</text>
+</svg>
